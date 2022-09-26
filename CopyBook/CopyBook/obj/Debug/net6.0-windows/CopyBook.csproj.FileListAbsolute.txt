@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\CopyBook.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\CopyBook.Form1.resources
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\CopyBook.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\CopyBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\CopyBook.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\CopyBook.AssemblyInfo.cs
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\CopyBook.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CopyBook\CopyBook\bin\Debug\net6.0-windows\CopyBook.exe
+C:\Users\User\source\repos\CopyBook\CopyBook\bin\Debug\net6.0-windows\CopyBook.deps.json
+C:\Users\User\source\repos\CopyBook\CopyBook\bin\Debug\net6.0-windows\CopyBook.runtimeconfig.json
+C:\Users\User\source\repos\CopyBook\CopyBook\bin\Debug\net6.0-windows\CopyBook.dll
+C:\Users\User\source\repos\CopyBook\CopyBook\bin\Debug\net6.0-windows\CopyBook.pdb
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\CopyBook.dll
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\refint\CopyBook.dll
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\CopyBook.pdb
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\CopyBook.genruntimeconfig.cache
+C:\Users\User\source\repos\CopyBook\CopyBook\obj\Debug\net6.0-windows\ref\CopyBook.dll
